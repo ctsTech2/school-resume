@@ -50,3 +50,7 @@ h4 {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+li {
+    list-style-type: circle;
+}
