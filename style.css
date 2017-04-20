@@ -9,6 +9,7 @@ body {
     float: right;
     width: 225px;
     height: 225px;
+    border: 2px solid #ffffff
 }
 
 #container {
