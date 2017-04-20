@@ -1,7 +1,8 @@
 body {
     font: 16px Helvetica, Sans-Serif;
     background: black;
-    color: #ffffff;
+    color: #ffffff; /* I learned here that Github updates very quickly when I delete 
+                        this color, and slower than shit when I put it back in */
 }
 
 #pic {
