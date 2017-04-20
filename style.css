@@ -36,7 +36,9 @@ body {
 }
 
 #content-applicableheader {
-    font-size: 28px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-style: bold;
 }
 
 .date {
